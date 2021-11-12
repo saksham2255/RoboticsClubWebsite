@@ -161,11 +161,17 @@ section .title::after{
     filter: brightness(90%);
 }
 
+#particles-js{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
 
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner2.jpg") no-repeat center;
+   /* background: url("images/banner2.jpg") no-repeat center;*/
+     background: black no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;

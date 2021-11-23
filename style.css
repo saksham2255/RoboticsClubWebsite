@@ -506,6 +506,22 @@ section .title::after{
     margin-top: 1rem;
     
 }
+#register{
+    position: absolute;
+    top: 27rem;
+    left: 7.5%;
+    background-color:crimson;
+    color:white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+
+#register-button{
+    background-color: black;
+}
 
 
 /* contact section styling */

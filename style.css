@@ -508,7 +508,7 @@ section .title::after{
 }
 #register{
     position: absolute;
-    top: 34rem;
+    top: 70%;
     left: 7.5%;
     background-color:crimson;
     color:white;

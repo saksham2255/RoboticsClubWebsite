@@ -63,27 +63,27 @@ a {
 #award1{
   float: left;
     height: 20rem;
-    width: 100%;
+    width: 50%;
 }
 
 #award2{
   height: 20rem;
-  width: 100%;
+  width: 50%;
 }
 
 #award3{
   height: 20rem;
-  width: 100%;
+  width: 50%;
 }
 
 #award4{
   height: 20rem;
-  width: 100%;
+  width: 50%;
 }
 
 #award5{
   height: 20rem;
-  width: 100%;
+  width: 50%;
 }
 
 @media (max-width: 600px) {

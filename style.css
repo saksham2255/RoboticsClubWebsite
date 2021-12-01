@@ -483,6 +483,10 @@ section .title::after{
     background: crimson!important;
 }
 
+#spacing{
+    height: 50px;
+}
+
  #team-details{
     background-color:crimson;
     color:white;
